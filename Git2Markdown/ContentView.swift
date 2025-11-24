@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Git2Md
+//  Git2Markdown
 //
 //  Created by Wayne Dahlberg on 11/24/25.
 //
@@ -24,7 +24,7 @@ struct ContentView: View {
                 Image(systemName: "doc.text.magnifyingglass")
                     .font(.system(size: 24))
                     .foregroundStyle(.linearGradient(colors: [.blue, .purple], startPoint: .topLeading, endPoint: .bottomTrailing))
-                Text("Git2Md")
+                Text("Git2Markdown")
                     .font(.title2)
                     .fontWeight(.bold)
                 Spacer()

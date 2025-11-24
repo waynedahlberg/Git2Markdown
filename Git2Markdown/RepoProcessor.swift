@@ -1,6 +1,6 @@
 //
 //  RepoProcessor.swift
-//  Git2Md
+//  Git2Markdown
 //
 //  Created by Wayne Dahlberg on 11/24/25.
 //

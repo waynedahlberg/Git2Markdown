@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		B0E479542ED4E9280046E9A3 /* Git2Md.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Git2Md.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B0E479542ED4E9280046E9A3 /* Git2Markdown.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Git2Markdown.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		B0E479562ED4E9280046E9A3 /* Git2Md */ = {
+		B0E479562ED4E9280046E9A3 /* Git2Markdown */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Git2Md;
+			path = Git2Markdown;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		B0E4794B2ED4E9280046E9A3 = {
 			isa = PBXGroup;
 			children = (
-				B0E479562ED4E9280046E9A3 /* Git2Md */,
+				B0E479562ED4E9280046E9A3 /* Git2Markdown */,
 				B0E479552ED4E9280046E9A3 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		B0E479552ED4E9280046E9A3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B0E479542ED4E9280046E9A3 /* Git2Md.app */,
+				B0E479542ED4E9280046E9A3 /* Git2Markdown.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B0E479532ED4E9280046E9A3 /* Git2Md */ = {
+		B0E479532ED4E9280046E9A3 /* Git2Markdown */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B0E4795F2ED4E9290046E9A3 /* Build configuration list for PBXNativeTarget "Git2Md" */;
+			buildConfigurationList = B0E4795F2ED4E9290046E9A3 /* Build configuration list for PBXNativeTarget "Git2Markdown" */;
 			buildPhases = (
 				B0E479502ED4E9280046E9A3 /* Sources */,
 				B0E479512ED4E9280046E9A3 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				B0E479562ED4E9280046E9A3 /* Git2Md */,
+				B0E479562ED4E9280046E9A3 /* Git2Markdown */,
 			);
-			name = Git2Md;
+			name = Git2Markdown;
 			packageProductDependencies = (
 			);
 			productName = Git2Md;
-			productReference = B0E479542ED4E9280046E9A3 /* Git2Md.app */;
+			productReference = B0E479542ED4E9280046E9A3 /* Git2Markdown.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B0E4794F2ED4E9280046E9A3 /* Build configuration list for PBXProject "Git2Md" */;
+			buildConfigurationList = B0E4794F2ED4E9280046E9A3 /* Build configuration list for PBXProject "Git2Markdown" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B0E479532ED4E9280046E9A3 /* Git2Md */,
+				B0E479532ED4E9280046E9A3 /* Git2Markdown */,
 			);
 		};
 /* End PBXProject section */
@@ -332,7 +332,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B0E4794F2ED4E9280046E9A3 /* Build configuration list for PBXProject "Git2Md" */ = {
+		B0E4794F2ED4E9280046E9A3 /* Build configuration list for PBXProject "Git2Markdown" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B0E4795D2ED4E9290046E9A3 /* Debug */,
@@ -341,7 +341,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B0E4795F2ED4E9290046E9A3 /* Build configuration list for PBXNativeTarget "Git2Md" */ = {
+		B0E4795F2ED4E9290046E9A3 /* Build configuration list for PBXNativeTarget "Git2Markdown" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B0E479602ED4E9290046E9A3 /* Debug */,
